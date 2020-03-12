@@ -1496,7 +1496,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/jason</string>
+			<string>/Users/paulo</string>
 		</dict>
 	</array>
 	<key>NoSyncAllAppVersions</key>
@@ -2328,7 +2328,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>~/.dotfiles-local/iterm</string>
+	<string>~/dotfiles-local/iterm</string>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>

@@ -10,8 +10,7 @@ info "Installing brew"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # install brews
-info "Installing from brewfile"
-brew bundle "$HOME/.dotfiles-local/Brewfile"
+brew bundle "$HOME/dotfiles-local/Brewfile"
 
 # install zgen
 info "Installing zgen"

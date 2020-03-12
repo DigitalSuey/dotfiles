@@ -18,11 +18,11 @@ Clone [thoughbot dotfiles](https://github.com/thoughtbot/dotfiles):
 
 Clone this repo:
 
-    git clone git://github.com/jsntv200/dotfiles.git ~/.dotfiles-local
+    git clone git://github.com/DigitalSuey/dotfiles.git ~/dotfiles-local
 
 Install the dotfiles:
 
-    env RCRC=$HOME/.dotfiles-local/rcrc rcup
+    env RCRC=$HOME/dotfiles-local/rcrc rcup
 
 
 Post Installation
